@@ -151,4 +151,4 @@ Permission Issues: Ensure necessary files and folders have write permissions (e.
 
 Support
 
-If you encounter any issues or need further assistance, please contact the developer support team at support@example.com.
+If you encounter any issues or need further assistance, please contact the developer support team at support@codewithkanchan.com.
